@@ -48,7 +48,5 @@ Start time: 3:15 PM
 Finish time: 3:40 PM
 Actual time needed to complete: 25 min
 
-
-
 ## Credits and Collaborations
 [Thanks to MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date) for their support with Date() javascript documentation!  
